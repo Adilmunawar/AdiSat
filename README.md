@@ -1,0 +1,2 @@
+# AdiSat
+Web-based satellite navigation and visualization platform that lets you explore, filter, and interact with real-time satellite orbits in a stunning 3D environment. Track ISS, GPS, Starlink, weather satellites, and more—complete with orbital paths, velocity data, Earth coordinates, and live filtering controls.
